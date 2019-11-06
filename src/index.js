@@ -1,6 +1,5 @@
-import { klass1, klass2 } from 'folder';
-import BaseKlass from 'folder/subfolder/BaseKlass';
+import { klass1 } from 'folder';
+import klass2 from './folder/subfolder/Klass2';
 
-BaseKlas.
 klass1.
 klass2.
